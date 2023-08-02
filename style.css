@@ -52,7 +52,7 @@ Header{
 main{
     height: 85vh;
     width: 100vw;
-    margin-top: 128px;
+    margin-top: 256px;
     /* background-color: blue; */
 }
 .mainContainer{
